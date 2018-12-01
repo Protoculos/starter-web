@@ -2,3 +2,4 @@ nottrack.txt
 
 #log files
 log/
+*.orig
