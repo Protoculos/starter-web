@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web servers or even local
 
 ## Copyright
 
-2014 Git.training.
+2014 Git.training. All ok.
